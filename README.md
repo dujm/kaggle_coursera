@@ -15,3 +15,6 @@ Marios Michailidis
 
 
 https://www.coursera.org/learn/competitive-data-science
+
+#### A lof of cheatsheets
+https://becominghuman.ai/cheat-sheets-for-ai-neural-networks-machine-learning-deep-learning-big-data-678c51b4b463
