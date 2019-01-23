@@ -16,5 +16,14 @@ Marios Michailidis
 
 https://www.coursera.org/learn/competitive-data-science
 
+
 #### A lof of cheatsheets
 https://becominghuman.ai/cheat-sheets-for-ai-neural-networks-machine-learning-deep-learning-big-data-678c51b4b463
+
+
+### Kaggle  solutions
+1. http://ndres.me/kaggle-past-solutions
+
+2. http://www.chioka.in/kaggle-competition-solutions 
+
+3. https://github.com/ShuaiW/kaggle-classification
