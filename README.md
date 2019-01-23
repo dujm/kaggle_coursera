@@ -27,3 +27,9 @@ https://becominghuman.ai/cheat-sheets-for-ai-neural-networks-machine-learning-de
 2. http://www.chioka.in/kaggle-competition-solutions 
 
 3. https://github.com/ShuaiW/kaggle-classification
+
+
+### Kaggle Note
+The public leaderboard is computed based on a fraction of the test set. The private leaderboard is computed on the whole test set.
+
+If you overfit the test set you can do very well in the public leaderboard and very bad in the private one.
