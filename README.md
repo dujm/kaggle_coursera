@@ -17,7 +17,7 @@ https://becominghuman.ai/cheat-sheets-for-ai-neural-networks-machine-learning-de
 
 3. https://github.com/ShuaiW/kaggle-classification
 
-### Kagggle perfect scores
+### Kaggle perfect scores
 https://www.kaggle.com/olegtrott/the-perfect-score-script 
 
 ### Kaggle notes
