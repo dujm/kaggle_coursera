@@ -1,19 +1,8 @@
 
 ## How to Win a Data Science Competition: Learn from Top Kagglers
 
+*Dmitry Ulyanov, Alexander Guschin, Mikhail Trofimov, Dmitry Altukhov, Marios Michailidis*
 National Research University Higher School of Economics
-
-Dmitry Ulyanov
-
-Alexander Guschin
-
-Mikhail Trofimov
-
-Dmitry Altukhov
-
-Marios Michailidis
-
-
 https://www.coursera.org/learn/competitive-data-science
 
 
@@ -28,6 +17,8 @@ https://becominghuman.ai/cheat-sheets-for-ai-neural-networks-machine-learning-de
 
 3. https://github.com/ShuaiW/kaggle-classification
 
+### Kagggle perfect scores
+https://www.kaggle.com/olegtrott/the-perfect-score-script 
 
 ### Kaggle notes
 The public leaderboard is computed based on a fraction of the test set. The private leaderboard is computed on the whole test set.
